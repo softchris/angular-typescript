@@ -1,3 +1,5 @@
+/// <reference path="../../../typings/angularjs/angular-route.d.ts" />
+
 module app.products {
     angular
         .module('app')
